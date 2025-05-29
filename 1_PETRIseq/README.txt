@@ -6,3 +6,5 @@ Updated by Alyssa R. Hamm, May 2025. Changed formatting and parameters to script
 
 This 1_PETRIseq folder has the files and scripts needed to run the full PETRI-seq pipeline. 
 We have included notes about how to build a functional Conda Environment (Conda_Environment.txt), and how to start the pipeline in terminal (Start_Here.txt).
+
+BioProject ID PRJNA1260026
