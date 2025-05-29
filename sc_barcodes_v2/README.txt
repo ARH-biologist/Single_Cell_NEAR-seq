@@ -1,1 +1,0 @@
-## Originally from Sydney Blattman, Tavazoie Lab, Columbia University, March 2020, "Prokaryotic single-cell RNA sequencing by in situ combinatorial indexing" (doi: 10.1038/s41564-020-0729-6).
