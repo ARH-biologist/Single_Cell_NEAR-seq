@@ -61,5 +61,5 @@ View(GeneMatrix)
 #Save the gene matrix
 write.csv(GeneMatrix, "M1_Gene_Matrix_Alloperons.csv")
 
-###Move on to the Seurat steps
+###Move on to the script 2b_Trimming.R
 
