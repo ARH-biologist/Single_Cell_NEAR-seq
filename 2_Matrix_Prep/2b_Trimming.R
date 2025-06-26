@@ -117,7 +117,7 @@ operons <- operons %>%
   as_tibble()
 
 Matrix13 <- Matrix12 %>%
-  add_column(operons, .before=("Aa4A_bc1_10_bc2_10_bc3_20")) 
+  add_column(operons, .before=("M1_bc1_10_bc2_10_bc3_20")) 
 
 
 #Transpose to get into Seurat format
