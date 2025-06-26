@@ -131,6 +131,4 @@ Matrix16 <-t(Matrix15)
 write.csv2(Matrix16, "M1_QC_Matrix.txt")
 
 
-###Move on to the next R script,
-
-
+###Move on to 3_Analysis_and_NEARseq scripts
