@@ -30,7 +30,7 @@ Aa <- Aa %>%
   as_tibble()
 
 #####Save your barcode names
-#Open you gene matrix in Excel
+#Open your gene matrix in Excel
 #Copy and paste the barcode names into a new Excel sheet 
 #Save as M1_barcodes.csv in your working directory
 
