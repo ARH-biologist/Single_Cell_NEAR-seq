@@ -37,7 +37,7 @@ metadata <- read.csv("MetaData.csv", header=TRUE)
 
 
 #Add this new column into the metadata
-Aa <- AddMetaData(metadata, aggregate, col.name = 'Aggregates')
+Aa <- AddMetaData(Aa, metadata, col.name = 'Aggregates')
 #metadata is the name of the csv file
 #aggregate is what the feature will be called
 #col.name lines up with the name of the column in the dataset
